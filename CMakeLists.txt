@@ -25,3 +25,4 @@ include_directories(BEFORE SYSTEM ${PYTHON_INCLUDE_DIRS})
 
 add_subdirectory(src/01-HelloWorld)
 add_subdirectory(src/02-ExposingClasses)
+add_subdirectory(src/03-Constructors)
